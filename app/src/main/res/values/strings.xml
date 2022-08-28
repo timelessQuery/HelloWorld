@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="explaination">Its a cat !</string>
+    <string name="say_meow_back_to_it">say \"Meow\" to the cat !</string>
+</resources>
